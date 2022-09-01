@@ -1,0 +1,62 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    display: inline-block;
+    width: 100%;
+    border-style: solid;
+}
+header h1{
+    display: inline-block;
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+    display: inline-block;
+    float:right;
+    align-content: center;
+}
+
+header li{
+    display: inline;
+    padding: 20px;
+    font-size: large;
+}
+
+.color{
+    border-style: solid;
+    border-top: 20px;
+}
+
+.color h3{
+    text-align: center;
+    text-decoration: underline;
+    border-style: dotted;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.color p{
+    margin: 20px;
+    padding: 50px 100px;
+    
+}
+
+.coolblue{
+    display: inline-block;
+    background-color:blue;
+}
+
+.pink{
+        display: inline-block;
+        background-color:pink;
+}
+
+.mintgreen{
+    display: inline-block;
+    background-color: mediumspringgreen;
+}
+
+.beige{
+    display: inline-block;
+    background-color: beige;
+}
